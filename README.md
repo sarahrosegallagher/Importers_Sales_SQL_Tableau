@@ -34,13 +34,16 @@ Tasks:
 ### [Click here to view interactive dashboard on Tableau Public. ](https://public.tableau.com/views/test_16744357801420/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
+Dashboard Default Display 
 
 <img src = "https://github.com/sarahrosegallagher/Importers_Sales_SQL_Tableau/blob/main/Images/dashboard1.png" >
 
+Dashboard with Tooltip and Drilldown 
 <img src = "https://github.com/sarahrosegallagher/Importers_Sales_SQL_Tableau/blob/main/Images/dashboard2.png" >
 
 
-
+Entity Relationship Diagram 
+<img src = "https://github.com/sarahrosegallagher/Importers_Sales_SQL_Tableau/blob/main/Images/WWI_ERD.png">
 
 
 
