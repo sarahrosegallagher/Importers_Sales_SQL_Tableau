@@ -1,7 +1,10 @@
 # Wide World Importers Sales Database: SQL Queries and Tableau Dashboard 
 
-sql logo
-tableau logo 
+
+<img src = "https://github.com/sarahrosegallagher/Importers_Sales_SQL_Tableau/blob/dbba14820a493257b00e71737798579bc24b24fa/Images/mssm.png" width="300">
+
+<img src = "https://github.com/sarahrosegallagher/Importers_Sales_SQL_Tableau/blob/dbba14820a493257b00e71737798579bc24b24fa/Images/tableautips_30.png" width="300">
+
 
 ## Overview of the Analysis:
 
@@ -15,25 +18,26 @@ Tasks:
 * Explore the database in Microsoft SQL Server Management Studio by creating an Entity Relationship Diagram and executing various test queries to check for nulls, look at summary statistics, and develop next step questions. 
 
 * Write and execute SQL queries to be read into Tableau for visualization. SQL query constructs used include: 
-  * CTEs
-  * Subqueries
-  * Window Functions
-  * Case Statements
-  * Aggregations
-  * Joins
+  * **CTEs**
+  * **Subqueries**
+  * **Window Functions**
+  * **Case Statements**
+  * **Aggregations**
+  * **Joins**
   
  * Read the data from SQL into Tableau and create a dashboard of visualizations on sales, profit, stock items, and customers. 
 
 ## Results:
 
-See Queries.sql file for SQL work. 
+### See Queries.sql file for SQL work. 
 
-[Click here to view interactive dashboard on Tableau Public. ](https://public.tableau.com/views/test_16744357801420/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-Dashboard 1
+### [Click here to view interactive dashboard on Tableau Public. ](https://public.tableau.com/views/test_16744357801420/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-Dashboard 2
+
+<img src = "https://github.com/sarahrosegallagher/Importers_Sales_SQL_Tableau/blob/main/Images/dashboard1.png" >
+
+<img src = "https://github.com/sarahrosegallagher/Importers_Sales_SQL_Tableau/blob/main/Images/dashboard2.png" >
 
 
 
