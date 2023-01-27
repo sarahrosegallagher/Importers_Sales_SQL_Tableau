@@ -29,7 +29,7 @@ Tasks:
 
 ## Results:
 
-### See Queries.sql file for SQL work. 
+### See [Queries.sql](https://github.com/sarahrosegallagher/Importers_Sales_SQL_Tableau/blob/ffc5b23b276f225d6ddfd50885366e86f9524876/Queries.sql) file for SQL work. 
 
 ### [Click here to view interactive dashboard on Tableau Public. ](https://public.tableau.com/views/test_16744357801420/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
