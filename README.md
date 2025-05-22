@@ -1,4 +1,6 @@
-# Wide World Importers Sales Database: SQL Queries and Tableau Dashboard 
+# Advanced SQL for Sales & Profit Analysis
+
+Built a suite of intermediate-to-advanced SQL queries to analyze customer behavior, product categories, and profit trends using the Wide World Importers DW schema. Used window functions, CTEs, and conditional logic to support KPI dashboards, customer segmentation, and profitability insights. Designed to power Power BI and Tableau visualizations with features like custom item categories and chiller/dry product segmentation.
 
 
 <img src = "https://github.com/sarahrosegallagher/Importers_Sales_SQL_Tableau/blob/dbba14820a493257b00e71737798579bc24b24fa/Images/mssm.png" width="300">
